@@ -1,0 +1,41 @@
+# Environment secrets (keep .env.example tracked)
+.env
+*.env
+backend/.env
+frontend/.env
+!.env.example
+
+# Python runtime & virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+
+# Tests & test cache
+.pytest_cache/
+pytest-cache-files-*/
+
+# Local AI model cache & benchmark outputs
+backend/.cache/
+output/
+
+# Frontend dependencies & build output
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# Workspace & OS
+.zcode/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Multi-agent teamwork artifacts
+.agents/
+ORIGINAL_REQUEST.md
+*AUDIT*.md
+RAG_PERFORMANCE_AUDIT.md
+/scratch
+/showcase-video

@@ -1,0 +1,40 @@
+Apex Cloud Systems Corporate Knowledge Base & Operations FAQ
+
+1. Company Overview
+Q: What does Apex Cloud Systems do?
+A: Apex Cloud Systems specializes in modern enterprise cloud engineering, building high-performance AI-driven systems, low-latency Retrieval-Augmented Generation (RAG) platforms, distributed FastAPI backend architectures, and secure cloud applications.
+
+Q: Where are the company headquarters and office locations?
+A: Apex Cloud Systems operates globally with headquarters in New York, USA, and regional engineering centers in London, UK, and Toronto, Canada. We support a distributed hybrid workforce across North America and Europe.
+
+2. Business Hours & Availability
+Q: What are the standard business operating hours?
+A: Standard business operating hours are Monday through Friday, 9:00 AM to 6:00 PM Eastern Standard Time (EST). Core collaboration hours for all engineering and product teams are between 10:00 AM and 4:00 PM EST.
+
+Q: Is technical support available outside standard business hours?
+A: Yes. Tier 1 emergency infrastructure support is monitored 24 hours a day, 7 days a week, 365 days a year for mission-critical client outages and severity-1 incidents.
+
+3. Customer Support & Service Level Agreements (SLA)
+Q: What are the customer support response times?
+A: Support response times depend on the issue severity level:
+- Critical (Severity 1 - Total System Outage): Guaranteed initial response within 1 hour.
+- High (Severity 2 - Core Function Impaired): Guaranteed response within 4 hours.
+- Normal (Severity 3 - Non-Critical Inquiries & Bug Reports): Response within 24 business hours.
+- Low (Severity 4 - General Questions & Feature Requests): Response within 48 business hours.
+
+Q: How can clients submit a support request?
+A: Clients can submit support tickets by emailing support@apexcloud.example.com or through the dedicated client portal at portal.apexcloud.example.com.
+
+4. Pricing, Invoicing & Refund Policy
+Q: What payment methods are accepted?
+A: We accept automated corporate ACH transfers, wire transfers (SWIFT), and major credit cards (Visa, MasterCard, American Express). All contracts are invoiced in US Dollars (USD).
+
+Q: What is the refund policy for software services and subscriptions?
+A: All enterprise software development packages include a 30-day evaluation guarantee. If deliverables do not meet agreed acceptance criteria during the initial milestone, clients are eligible for a 100% refund of that milestone. For recurring platform subscriptions, cancellations take effect at the end of the current billing cycle with no penalty.
+
+5. Data Security & Privacy Compliance
+Q: How does the company protect customer data and uploaded documents?
+A: We implement end-to-end data encryption. All data in transit is encrypted using TLS 1.3, and all data at rest is encrypted using AES-256 standards. Database volumes and vector embeddings are stored in SOC 2 Type II certified cloud environments.
+
+Q: Does Apex Cloud Systems share customer data with third parties or AI model providers?
+A: No. Customer data, uploaded documents, and proprietary knowledge bases are strictly confidential. We maintain zero-data-retention agreements with AI model providers, ensuring client data is never used to train public language models.
